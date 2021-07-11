@@ -1,6 +1,5 @@
 
-[![HaoWei's GitHub stats](https://github-readme-stats.vercel.app/api&show_icons=true&theme=blue-green ?username=haoweihe)
-)](https://github.com/anuraghazra/github-readme-stats)
+![HaoWei.He's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!--
 **HaoWeiHe/HaoWeiHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
