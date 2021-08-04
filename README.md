@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Personal Website - http://www.haoweihohoho.com/
+Blog - http://www.haoweihohoho.com/
